@@ -17,7 +17,7 @@ This dataset provides an overview of key indicators related to the pharmaceutica
 ## Conclusion
 The analysis of the Kenyan pharmaceutical sector across 47 counties has highlighted significant disparities in access to essential medicines, healthcare infrastructure, and pharmaceutical services. While urban areas such as Nairobi and Mombasa have relatively well-established pharmaceutical networks, rural and marginalized regions still face considerable challenges, including limited access to pharmacies, inconsistent drug supplies, and insufficient healthcare professionals.
 
-##Recommendation
+## Recommendation
 To improve access to quality pharmaceutical services across all counties in Kenya, the following actions are recommended:
    1. Strengthen Pharmaceutical Supply Chains
    2. Encourage Public-Private Partnerships
