@@ -1,1 +1,1 @@
-# PharmaceuticalKenya
+# Pharmaceutical Sector in Kenya
